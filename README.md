@@ -29,10 +29,6 @@ Proje kapsamında, `Scikit-Learn` kütüphanesinin **Isolation Forest (İzolasyo
 - **Büyük Veri Ortamı:** `Databricks` (Log işleme ve analiz)
 - **Veri Görselleştirme:** `Plotly` (3D Etkileşimli Scatter Plot grafikleri)
 
-## 📊 Görselleştirmeler Hakkında Not
-GitHub, güvenlik politikaları gereği `Plotly` kütüphanesi ile üretilen etkileşimli (interaktif) 3 boyutlu grafikleri varsayılan olarak göstermemektedir. 
-Kod içerisindeki 3D anomali dağılım grafiklerini etkileşimli olarak incelemek için `.ipynb` dosyasının linkini [NBViewer](https://nbviewer.jupyter.org/) üzerinden açabilirsiniz.
-
 ## 👨‍💻 Geliştirici
 **Samet Çevik** 
-*Management Information Systems (MIS)*
+*Yönetim Bilişim Sistemleri*
